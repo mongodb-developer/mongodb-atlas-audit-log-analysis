@@ -1,0 +1,3 @@
+# Atlas Charts 
+
+This export file includes a dashboard that comprises 8 different charts. This dashboard export expect a data source with the name `auditlogs.auditlogscollection` under the database instance `FederatedDatabaseInstance0`. In order to get this dashboard worked in your environment, either create a new datasource with the same name as in the dashboard or create a new data source with a name that you desired and change the data source of each chart accordingly.
